@@ -1,4 +1,4 @@
-{version: "1.0.0",
+{"version": "1.0.0",
  "packagesDir": "lake-packages",
  "packages":
  [{"git":
@@ -24,4 +24,6 @@
     "subDir?": null,
     "rev": "6006307d2ceb8743fea7e00ba0036af8654d0347",
     "name": "std",
-    "inputRev?": "main"}}]}
+    "inputRev?": "main"}}
+ ]
+}
